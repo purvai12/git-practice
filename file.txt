@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-dev1 change
-=======
-dev2 change
->>>>>>> dev2
